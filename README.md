@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://avatars.githubusercontent.com/u/132200124?v=4" width="100" alt="Logo"/><br/>
+	<img src="https://avatars.githubusercontent.com/u/132200124?v=4" width="100" style="border-radius: 50%;" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	Catppuccin for <a href="https://github.com/0l1v3rr/github-readme-tech-stack">GitHub Readme Tech Stack</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
