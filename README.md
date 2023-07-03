@@ -4,13 +4,13 @@
 	Hyper for <a href="https://github.com/0l1v3rr/github-readme-tech-stack">GitHub Readme Tech Stack</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
-<center>
+
 <p align="center">
 	<a align="center" href="https://github.com/catppuccin/github-readme-tech-stack/stargazers"><img  src="https://img.shields.io/github/stars/catppuccin/github-readme-tech-stack?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
 	<a align="center" href="https://github.com/catppuccin/github-readme-tech-stack/issues"><img src="https://img.shields.io/github/issues/catppuccin/github-readme-tech-stack?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
 	<a align="center" href="https://github.com/catppuccin/github-readme-tech-stack/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/github-readme-tech-stack?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
-</center>
+
 # Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HYPER-00&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HYPER-00&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
