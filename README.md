@@ -3,6 +3,7 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	GitHub Readme Tech Stack
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+	[![](https://visitcount.itsvg.in/api?id=HYPER-00&icon=5&color=0)](https://visitcount.itsvg.in)
 </h3>
 
 <p align="center">
@@ -22,6 +23,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=HYPER-00&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HYPER-00&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
