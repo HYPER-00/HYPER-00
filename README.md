@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://avatars.githubusercontent.com/u/132200124?v=4" width="100" style="border-radius: 50%;" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Hyper for <a href="https://github.com/HYPER-00">GitHub Readme Tech Stack</a>
+	GitHub Readme Tech Stack
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
