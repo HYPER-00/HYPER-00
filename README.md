@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/github-readme-tech-stack/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/github-readme-tech-stack?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/github-readme-tech-stack/issues"><img src="https://img.shields.io/github/issues/catppuccin/github-readme-tech-stack?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/github-readme-tech-stack/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/github-readme-tech-stack?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a align="center" href="https://github.com/catppuccin/github-readme-tech-stack/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/github-readme-tech-stack?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a align="center" href="https://github.com/catppuccin/github-readme-tech-stack/issues"><img src="https://img.shields.io/github/issues/catppuccin/github-readme-tech-stack?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a align="center" href="https://github.com/catppuccin/github-readme-tech-stack/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/github-readme-tech-stack?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 # Stats:
