@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HYPER-00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" height="160" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=HYPER-00&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph" /> <br>
