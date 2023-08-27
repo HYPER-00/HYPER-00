@@ -1,4 +1,4 @@
-<h2 align="left">👩‍💻 Tech stacks</h2>
+<h2 align="left">👩‍💻 Tech stacks:</h2>
 
 ###
 
