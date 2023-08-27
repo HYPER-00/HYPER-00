@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/HYPER-00/count.svg?"  />
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=HYPER-00&amp;icon=0&amp;color=0" alt=""></a>
 </div>
 
 ###
