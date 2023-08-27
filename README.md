@@ -44,10 +44,6 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HYPER-00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" height="170" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=HYPER-00&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
@@ -57,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HYPER-00.HYPER-00&"  />
+  <img src="https://visitcount.itsvg.in/api?id=HYPER-00&amp;icon=0&amp;color=0" alt="">
 </div>
 
 ###
