@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Hyper. from Tunisia<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning Reverse Engineering, Network Security<br>- ⚡ My Discord account name: Hyper</p>
+<p align="left">I'm Hyper. from Tunisia<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning Reverse Engineering, Network Security<br>- ⚡ My Discord account name: hyper_x86</p>
 
 ###
 
