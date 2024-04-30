@@ -20,7 +20,7 @@
 
 ###
 
-<br clear="both">
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HYPER-00&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8&order=3" height="165" alt="streak graph"  />
