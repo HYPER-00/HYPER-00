@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm <b>Hyper</b>. from <b>Tunisia</b><br><br>- 🔭 I’m working as <b>Software Developer</b><br>- ⚡ My Discord account name: <b>hyper_x86</b></p>
+<p align="left">I'm <b>Hyper</b>. from <b>Tunisia</b><br><br>- 🔭 I make <b>Softwares</b><br>- ⚡ My Discord account name: <b>hyper_x86</b></p>
 
 ###
 
